@@ -1,0 +1,15 @@
+/* Root container helpers kept lightweight; layout handled in components */
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.card {
+  padding: 1rem;
+}
+
+/* Utility tweaks used by components */
+.muted {
+  color: #9ca3af;
+}
